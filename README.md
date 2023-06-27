@@ -5,3 +5,4 @@ sail composer require juststeveking/launchpad
 
 sail artisan setup:phpstan
 sail artisan setup:laravel-pint
+https://www.youtube.com/watch?v=YajIc8yt_cc
